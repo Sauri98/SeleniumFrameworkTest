@@ -1,0 +1,14 @@
+C:\Users\SaurabhG2\source\repos\FrameworkTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\SaurabhG2\source\repos\FrameworkTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\SaurabhG2\source\repos\FrameworkTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\SaurabhG2\source\repos\FrameworkTest\bin\Debug\netcoreapp2.2\FrameworkTest.deps.json
+C:\Users\SaurabhG2\source\repos\FrameworkTest\bin\Debug\netcoreapp2.2\FrameworkTest.runtimeconfig.json
+C:\Users\SaurabhG2\source\repos\FrameworkTest\bin\Debug\netcoreapp2.2\FrameworkTest.runtimeconfig.dev.json
+C:\Users\SaurabhG2\source\repos\FrameworkTest\bin\Debug\netcoreapp2.2\FrameworkTest.dll
+C:\Users\SaurabhG2\source\repos\FrameworkTest\bin\Debug\netcoreapp2.2\FrameworkTest.pdb
+C:\Users\SaurabhG2\source\repos\FrameworkTest\obj\Debug\netcoreapp2.2\FrameworkTest.csproj.CoreCompileInputs.cache
+C:\Users\SaurabhG2\source\repos\FrameworkTest\obj\Debug\netcoreapp2.2\FrameworkTest.AssemblyInfoInputs.cache
+C:\Users\SaurabhG2\source\repos\FrameworkTest\obj\Debug\netcoreapp2.2\FrameworkTest.AssemblyInfo.cs
+C:\Users\SaurabhG2\source\repos\FrameworkTest\obj\Debug\netcoreapp2.2\FrameworkTest.dll
+C:\Users\SaurabhG2\source\repos\FrameworkTest\obj\Debug\netcoreapp2.2\FrameworkTest.pdb
+C:\Users\SaurabhG2\source\repos\FrameworkTest\obj\Debug\netcoreapp2.2\FrameworkTest.csprojAssemblyReference.cache
